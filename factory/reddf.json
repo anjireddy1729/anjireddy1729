@@ -1,0 +1,9 @@
+{
+	"name": "reddf",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d4e0714e-3898-49cc-af03-d578a8eb29dc",
+		"tenantId": "7962e7f5-52fc-4ba1-9efa-2910d0cdee12"
+	}
+}
